@@ -1,1 +1,2 @@
-# py
+name = prompt("what is your name")
+print(name)

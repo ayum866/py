@@ -7,7 +7,8 @@
   <body>
     <script>
       let a = prompt("what is your name ??? ")
-      let b = alert("Welcome ",a)
+      let b = "Welcome"
+      let c = alert(b + a )
     </script>
   </body>
 </html>

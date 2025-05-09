@@ -1,5 +1,10 @@
 <html>
   <head>
+    <style>
+      prompt{
+        color:red;
+      }
+    </style>
     <title>
       javascript
     </title>
